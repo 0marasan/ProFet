@@ -61,8 +61,8 @@ Download the apk from the drive.
 ![2](https://github.com/user-attachments/assets/1bb7a326-74d4-460f-952a-575436ea2cc6)
 
 # Build Photos
-![Build](Add photos of build process here)
-*Explain the build steps*
+![WhatsApp Image 2024-11-02 at 22 43 13_89ca718d](https://github.com/user-attachments/assets/7c7bc408-8dab-4171-b994-35fd0099659f)
+We assigned tasks related to the app for each of us and where together the whole time of the hackathon.
 
 ![Final]
 ### Project Demo
