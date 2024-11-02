@@ -13,8 +13,7 @@
 - Member 3: Basil Rexy Kuriakose - College of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Profet is an app that analyzes the “aura,” or imagined energy field, around a user’s mobile device to offer personalized future predictions. By studying energy fluctuations in this aura, Profet delivers tailored insights on upcoming events and life choices. Through its daily and weekly forecasts, aura tracking, and predictive analysis, Profet aims to guide users toward better decision-making and self-awareness, based on unique patterns in their energy field.
 ### The Problem (that doesn't exist)
 Individuals often face uncertainty about future outcomes due to limited access to what we define as the "aura constant"—an imagined, universal energy that theoretically holds predictive insights into a person’s life path
 ### The Solution (that nobody asked for)
@@ -32,9 +31,6 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
 [commands]
 
 ### Project Documentation
@@ -65,35 +61,20 @@ For Software:
 ### AuraFinder
 ![2](https://github.com/user-attachments/assets/1bb7a326-74d4-460f-952a-575436ea2cc6)
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
+![Final]
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1VEiRUczTcPdRk5u-KzMXHOJCKxSkHucY
+The video demonstrates a critical use-case of where our app becomes useful and a full demonstration of how the app works.
 
 ## Team Contributions
-- Umarul Farooq Asan A : 
-- Anirudh Narayan A: [Specific contributions]
-- Basil Rexy Kuriakose: [Specific contributions]
+- Umarul Farooq Asan A :   Documentation, Idea and FrontEnd development
+- Anirudh Narayan A: BackEnd development
+- Basil Rexy Kuriakose: UI/UX Designing
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
