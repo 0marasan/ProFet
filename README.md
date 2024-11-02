@@ -29,12 +29,11 @@ For Software:
 
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
-### Project Documentation
-For Software:
+# Installation
+https://drive.google.com/drive/folders/1VOxcXSn4vLTKH1v_pUqiVrJuPRW-fsbD
+Download the apk from the drive.
+
 
 # Screenshots
 ### Main Screen
